@@ -26,9 +26,12 @@ Access the dataset at DementiaBank.
 Installation
 
 1. Clone the Repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-2. Set Up the Environment
+git clone https://github.com/adarench/DementiaNeuralNetwork.git
+
+cd DementiaNeuralNetwork
+
+3. Set Up the Environment
+
 Create and activate a virtual environment:
 
 python -m venv env
