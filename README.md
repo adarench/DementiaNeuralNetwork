@@ -96,5 +96,7 @@ Contact
 For questions or feedback, reach out to:
 
 Your Name: adam.rencher12@gmail.com
+
 LinkedIn Profile: linkedin.com/in/adam-rencher-8294381a5
+
 GitHub Profile: adarench
